@@ -1,4 +1,4 @@
-# imdb-topic-modelling
+# imdb-topic-modeling
 Topic modelling of IMDB movie reviews dataset using Latent Dirichlet Allocation (LDA).
 ## Requirements:
 * Use the .csv file made in [imdb-sentiment-analysis](https://github.com/rishz09/imdb-sentiment-analysis).
